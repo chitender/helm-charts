@@ -10,6 +10,6 @@ entries:
     name: alertmanager-gchat-integration
     type: application
     urls:
-    - https://chitender.github.io/helm-chart/alertmanager-gchat-integration-1.0.0.tgz
+    - https://chitender.github.io/helm-charts/alertmanager-gchat-integration-1.0.0.tgz
     version: 1.0.0
 generated: "2021-03-23T18:27:07.457664+05:30"
